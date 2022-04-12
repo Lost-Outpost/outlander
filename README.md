@@ -30,8 +30,8 @@
     - [Steam Library](#steam-library)
     - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
-    - [Clean Skyrim](#clean-skyrim)
-    - [Start Skyrim](#start-skyrim)
+    - [Clean Enderal](#clean-enderal)
+    - [Start Enderal](#start-enderal)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
@@ -48,22 +48,18 @@
 
 # Introduction
 
-"I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Septimus Signus
-
-Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It also contains optional lightweight survival gameplay and full anniversary edition creation club support. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
-
-Septimus works with both Skyrim: Special Edition and Skyrim: Anniversary Edition. The full Anniversary Edition support includes all the new creation club content for those eager to get right into the new content.
+The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game's original vision.
 
 ### Minimum Specs
 Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to use performance ini files (included) with systems this low but it should run fine and still look great!
 
 ### Gameplay
 
-Septimus seeks to modify Skyrim in the least intrusive way to keep what makes the vanilla game great, while introducing new and fun things to find and do. You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
+You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
 ### Community
 
-Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
+Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) server and in the [Issues](https://github.com/Guitarninja2/thepath/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
 
 ### List Contents
 
@@ -90,7 +86,7 @@ Please ensure you have .NET v5.0 installed. The game will not launch if you do n
 ### Steam Library
 
 If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
-I will not provide support to people with Skyrim in their Program Files folder.
+I will not provide support to people with Enderal in their Program Files folder.
 Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
 
 ### Change Steam's Update Behavior
@@ -109,9 +105,9 @@ Just do it. This entire Modlist is in English and 99% of all mods you will find 
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-### Clean Skyrim
+### Clean Enderal
 
-I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
+I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Enderal Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
 [THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
 
