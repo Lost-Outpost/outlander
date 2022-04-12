@@ -14,7 +14,7 @@
 
 ---
 
-**Modlist Download: [Septimus.wabbajack]()**
+**Modlist Download: [Soon TM](#)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
