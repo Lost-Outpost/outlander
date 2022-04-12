@@ -28,29 +28,6 @@
 - [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
 - [Performance Guide](#performance-guide)
 
-## Mod Organizer 2 Profiles
-
-Two profiles are pre-configured in MO2 for you. Septimus - Anniversary Edition and Septimus. If you do not own anniversary edition and all creation club content, play the standard Septimus profile. It contains all mods that do not require creation club integration.
-
-Select the profile you wish to use here:
-
-![Profiles](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/profiles.png)
-
-## Creation Club Setup
-
-In order to use Creation Club content, Mod Organizer 2 will need a copy of the creation club mod files.
-
-- Launch the game from steam and allow all creation club content to download
-- Activate the Anniversary Edition profile in Mod Organizer 2 at the top of the window
-- Right click `[NoDelete] Official Creation Club - Paid` at the top of the mod list and hit open in explorer
-- Copy all files from Skyrim Special Edition/data beginning with "cc" (example: ccvsvsse004-beafarmer.bsa) into the opened folder
-- Ensure that all creation club content is activated in the "Plugins" tab on the right of mod organizer 2
-- If it is not all activated and sent to the top, shift click to select all, right click and hit enable selected, and then right click and hit send to -> top
-
-When you have setup Creation Club content correctly, your Septimus MO2 will look like this:
-
-![CC Top](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/ccenabled_top.png)
-
 ## Optional Tweaks
 
 When enabling any optional tweaks, make sure they are always loaded BEFORE realisticwatertwo.esp in your load order. See the alternate start section for an example of this.
@@ -82,11 +59,6 @@ Septimus\mods[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
 
 ### General Rules
 When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realisticwatertwo.esp in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
-
-### Legacy of the Dragonborn
-"I HATE Legacy of the Dragonborn, PLEASE remove it". 
-
-Don't worry. I've thought of this already. Simply uncheck all mods in the `Optional LOTD` separator in MO2 before starting your game.
 
 ## Mod Configuration
 
