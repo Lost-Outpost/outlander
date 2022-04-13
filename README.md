@@ -153,7 +153,7 @@ There are more steps though, so please keep following the next steps to setup th
 
 ### Pagefile in prevention of memory crashes
 
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
+Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger [pagefile](#pagefile).
 
 A pagefile is a file on your disk Windows will use when there is not enough RAM available. Never disable the pagefile - this may lead to various issues on your system, such as a Skyrim memory crash.
 
