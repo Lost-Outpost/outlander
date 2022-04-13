@@ -16,7 +16,6 @@
 # Configuration
 
 - [Mod Organizer 2 Profiles](#mod-organizer-2-profiles)
-- [Creation Club Setup](#creation-club-setup)
 - [Alternate Start](#alternate-start)
 - [Optional Tweaks](#optional-tweaks)
 - [Optional Content](#optional-content)
