@@ -16,6 +16,7 @@
 # Changelog
 
 ## Version 1.0.0 [BETA 2]
++ Added Ultrawide Support for Enderal
 + Tweaked Fashions of the Fourth Era for better Enderal Synergy
 + Removed Some unnecessary plugins
 
