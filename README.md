@@ -28,7 +28,6 @@
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
-    - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Enderal](#clean-enderal)
     - [Start Enderal](#start-enderal)
@@ -88,16 +87,6 @@ Please ensure you have .NET v5.0 installed. The game will not launch if you do n
 If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
 I will not provide support to people with Enderal in their Program Files folder.
 Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
-
-### Change Steam's Update Behavior
-
-SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
-
-![Update Settings 1](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/noupdate1.png)
-
-![Update Settings 1](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/noupdate2.png)
 
 ### Set the Game language to English
 
