@@ -41,7 +41,6 @@
 - [Gameplay Guide](#gameplay-guide)
 - [Configuration](#configuration)
 - [Issues](#issues)
-- [Addons](#addons)
 - [The Path Team](#the-path-team)
 
 # Introduction
