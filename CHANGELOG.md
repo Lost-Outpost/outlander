@@ -17,6 +17,8 @@
 
 ## Version 1.0.0 [BETA 2]
 + Added Ultrawide Support for Enderal
++ Added Northern Shores
++ Added Water Effects Brightness and Reflection Fix
 + Tweaked Fashions of the Fourth Era for better Enderal Synergy
 + Tweaked Mod Organizer Categories
 + Removed Some unnecessary plugins
