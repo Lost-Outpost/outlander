@@ -44,7 +44,7 @@ Also, if you are using the optional NordicUI, enable the mod entitled "NORDIC UI
 
 ### Character Presets
 
-Septimus includes mod that contains a few character presets, and you can also copy presets you download from the [Septimus Character Presets Discord thread](https://discord.com/channels/773659452392865792/952965520083275796) to load when creating new characters. 
+The Path includes mod that contains a few character presets, and you can also copy presets you download from the [The Path Character Presets Discord thread](https://discord.com/channels/773659452392865792/952965520083275796) to load when creating new characters. 
 
 The presets mod is here:
 
@@ -53,11 +53,11 @@ The presets mod is here:
 You can select this mod, right-click it, and then select "Open in Explorer" to see the presets directory, which will be at this location:
 
 ```
-Septimus\mods[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
+The Path\mods[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
 ```
 
 ### General Rules
-When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realisticwatertwo.esp in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
+When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realisticwatertwo.esp in your load order and if there is a The Path patch for them, load that after the mod's esp and above all other The Path patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
 
 ## Mod Configuration
 
@@ -69,7 +69,7 @@ All MCM menus have been automated so you are good to ignore them unless you want
 
 > :ledger: You should only ever enable exactly one preset (regardless of whether it is an ENB or Reshade). You should never enable both an ENB and Reshade preset at the same time.
 
-Septimus includes an awesome tool called ENB Organizer for trying out different ENB and Reshade presets.
+The Path includes an awesome tool called ENB Organizer for trying out different ENB and Reshade presets.
 
 To change ENB & Reshade presets, do the following:
 
@@ -90,23 +90,23 @@ To install a new ENB, do the following:
 - Create a new temporary folder on your desktop to contain the new ENB
 - Open the ENB zip archive and navigate to the ELFX sub-folder
 - From the ENB zip archive ELFX sub-folder, copy the enbseries folder, enblocal.ini, and enbseries.ini into your temporary folder
-- Open Septimus MO2, run the ENB Organizer
+- Open The Path MO2, run the ENB Organizer
 - Ignore the ENB Organizer error message
 - In ENB Organizer, select Presets from the menu
-- In ENB Organizer, selct one of the Septimus ENB (not Reshade!) presets, and use the View Files menu item
-- Copy the two .DLL files from the Septimus ENB preset into your temporary folder
+- In ENB Organizer, selct one of the The Path ENB (not Reshade!) presets, and use the View Files menu item
+- Copy the two .DLL files from the The Path ENB preset into your temporary folder
 - Your temporary folder should now have the enbseries folder, enblocal.ini, enbseries.ini, and two .DLLs
 - In ENB Organizer, select the add button, select import folder or archive, and import from your temporary folder
 
-Thanks to Septimus community helper Curly for making [this video](https://www.youtube.com/watch?v=4MA5ZLcRYds) to show the process.
+Thanks to The Path community helper Curly for making [this video](https://www.youtube.com/watch?v=4MA5ZLcRYds) to show the process.
 
 ## Performance Guide
 
 - Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
-- Activate the performance grass and dyndolod mods under Septimus - Performance Mode
-- Copy the files from one of the presets in Septimus/Performance Options to the profile you're using and overwrite (Septimus/profiles/Septimus [- Anniversary Edition])
+- Activate the performance grass and dyndolod mods under The Path - Performance Mode
+- Copy the files from one of the presets in The Path/Performance Options to the profile you're using and overwrite (The Path/profiles/The Path)
 
 ![Perf Options](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options.png)
 ![Perf Options 2](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options2.png)
 ![Perf Options 3](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options3.png)
-- Double click on `SSE Display Tweaks - Septimus Settings` under `Essentials` and set the resolution to match your monitor resolution and remove the # at the beginning of the line
+- Double click on `SSE Display Tweaks - The Path Settings` under `Essentials` and set the resolution to match your monitor resolution and remove the # at the beginning of the line
