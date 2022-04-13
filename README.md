@@ -21,7 +21,6 @@
 
 - [Introduction](#introduction)
   - [Minimum Specs](#minimum-specs)
-  - [Gameplay](#gameplay)
   - [Community](#community)
   - [List Contents](#list-contents)
 - [Installation](#installation)
@@ -51,10 +50,6 @@ The Path is a lightweight Enderal modlist meant to enhance visuals, provide qual
 
 ### Minimum Specs
 Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to use performance ini files (included) with systems this low but it should run fine and still look great!
-
-### Gameplay
-
-You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
 ### Community
 
