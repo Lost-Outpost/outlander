@@ -56,7 +56,7 @@ Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) s
 
 ### List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/thepath) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/the-path) if you want to know exactly what you're getting.
 
 # Installation
 
