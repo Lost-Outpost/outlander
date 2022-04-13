@@ -44,7 +44,7 @@
 - [Configuration](#configuration)
 - [Issues](#issues)
 - [Addons](#addons)
-- [Septimus Team](#septimus-team)
+- [The Path Team](#the-path-team)
 
 # Introduction
 
