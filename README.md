@@ -59,7 +59,7 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 
 ### Community
 
-Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) server and in the [Issues](https://github.com/Guitarninja2/thepath/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
+Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) server and in the [Issues](https://github.com/Guitarninja2/thepath/issues) section of The Path GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
 
 ### List Contents
 
@@ -126,9 +126,9 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Septimus"
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "The Path"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `Septimus` from the Wabbajack Browse Modlists page
+3. Download the latest release of `The Path` from the Wabbajack Browse Modlists page
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
@@ -156,9 +156,9 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Stock Game
 
-Unlike regular Skyrim installation or some other Wabbajack Lists, Septimus comes with the **Stock Game Feature**.
+Unlike regular Skyrim installation or some other Wabbajack Lists, The Path comes with the **Stock Game Feature**.
 
-Basically, the **Stock Game Feature** is a copy of a Skyrim installation located within your installation folder, cleaned and with everything required in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after you install Septimus using Wabbajack, you need not to move anything to your regular Skyrim installation folder.
+Basically, the **Stock Game Feature** is a copy of a Skyrim installation located within your installation folder, cleaned and with everything required in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after you install The Path using Wabbajack, you need not to move anything to your regular Enderal installation folder.
 
 There are more steps though, so please keep following the next steps to setup the game optimally.
 
@@ -218,7 +218,7 @@ If you find an issue, you can see if it is already on the list of [known issues]
 
 For issues that aren't yet [known](HELP.md), you can provide details in the [Github Issues](https://github.com/Guitarninja2/thepath/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg).
+Finally, free feel to hop on the The Path Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg).
 
 # The Path Team
 + Webmetz - Author of the Relics of Hyrule addon and awesome modder!
