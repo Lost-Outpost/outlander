@@ -21,4 +21,4 @@
 + Removed Some unnecessary plugins
 
 ## Version 1.0.0 [BETA 1]
-lol
+New release, nothing changed... _yet_
