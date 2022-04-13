@@ -109,10 +109,10 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Enderal Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
-[THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
+[THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Enderal install should look like after shredding or cleaning it manually.
 
 ## Start Enderal
-Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
+Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Enderal directory.
 
 ## Using Wabbajack
 
