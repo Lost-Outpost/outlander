@@ -13,7 +13,7 @@
 
 ---
 
-# Pagefile
+# Pagefile Setup
 
 A pagefile is a file on your disk Windows will use when there is not enough RAM available. Never disable the pagefile - this may lead to various issues on your system, such as a Skyrim memory crash.
 
