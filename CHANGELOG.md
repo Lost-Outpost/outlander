@@ -15,5 +15,8 @@
 
 # Changelog
 
+## Version 1.0.0 [BETA 2]
++ Tweaked Fashions of the Fourth Era for better Enderal Synergy
+
 ## Version 1.0.0 [BETA 1]
 lol
