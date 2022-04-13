@@ -223,5 +223,4 @@ Finally, free feel to hop on the Septimus Discord support channel to have discus
 
 # The Path Team
 + Webmetz - Author of the Relics of Hyrule addon and awesome modder!
-+ [Ghastly](https://rr.noordstar.me/756fd6eb) - Patching wizard and overall cool guy
 + Rsrogers4 - Tons of documentation help!
