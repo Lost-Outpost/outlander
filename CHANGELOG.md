@@ -20,6 +20,7 @@
 + Added Arrow Crafting
 + Added Cloaks and Capes - Enderal Edition
 + Added Vanargand Animations - Crossbows
++ Added Character Gen Presets Folder
 + Fixed Remaining map brightness issues
 
 ## Version 1.0.0 [BETA 2]
