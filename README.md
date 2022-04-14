@@ -42,6 +42,7 @@
 - [Configuration](#configuration)
 - [Issues](#issues)
 - [The Path Team](#the-path-team)
+- [Special Thanks](#special-thanks)
 
 # Introduction
 
@@ -181,3 +182,6 @@ Finally, free feel to hop on the The Path Discord support channel to have discus
 # The Path Team
 + Webmetz - Author of the Relics of Hyrule addon and awesome modder!
 + Rsrogers4 - Tons of documentation help!
+
+# Special Thanks
+I want to give a special shoutout to Apoapse and the Somnium team for their wonderful modlist. This would not be possible without them!!!!
