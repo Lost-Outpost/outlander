@@ -17,7 +17,6 @@
 
 - [Mod Organizer 2 Profiles](#mod-organizer-2-profiles)
 - [Alternate Start](#alternate-start)
-- [Optional Tweaks](#optional-tweaks)
 - [Optional Content](#optional-content)
   - [Widescreen](#widescreen)
   - [Character Presets](#character-presets)
@@ -26,11 +25,9 @@
 - [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
 - [Performance Guide](#performance-guide)
 
-## Optional Tweaks
-
-When enabling any optional tweaks, make sure they are always loaded BEFORE realisticwatertwo.esp in your load order. See the alternate start section for an example of this.
-
 ## Optional Content
+When enabling any optional files, make sure they are always loaded BEFORE watercolor.esp in your load order. See the alternate start section for an example of this.
+
 **As a warning. The optional content has not been tested nearly as heavily as the rest of the list as not everyone has it enabled. Support will be limited if you enable any of the optional content as its more difficult to account for them. If you are at all worried about stability, do NOT enable any.**
 
 ### Widescreen
