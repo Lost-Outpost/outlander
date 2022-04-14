@@ -15,6 +15,12 @@
 
 # Changelog
 
+## Version 1.0.0 [Unreleased BETA 3]
++ Added Enderal Crossbows
++ Added Arrow Crafting
++ Added Cloaks and Capes - Enderal Edition
++ Fixed Remaining map brightness issues
+
 ## Version 1.0.0 [BETA 2]
 + Added Ultrawide Support for Enderal
 + Added Northern Shores
