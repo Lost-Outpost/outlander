@@ -15,6 +15,12 @@
 
 # Changelog
 
+## Version 1.0.0 [Unreleased]
++ Added Silent Summon Apparition
++ Added Quieter Sun Temple Water
++ Added Enderal Distinctive Jewelry
++ Removed Convenient Dialogue UI
+
 ## Version 1.0.0 [BETA 3]
 + Added Enderal Crossbows
 + Added Arrow Crafting
