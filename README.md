@@ -179,9 +179,5 @@ For issues that aren't yet [known](HELP.md), you can provide details in the [Git
 
 Finally, free feel to hop on the The Path Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg).
 
-# The Path Team
-+ Webmetz - Author of the Relics of Hyrule addon and awesome modder!
-+ Rsrogers4 - Tons of documentation help!
-
 # Special Thanks
 I want to give a special shoutout to Apoapse and the Somnium team for their wonderful modlist. This would not be possible without them!!!!
