@@ -15,7 +15,7 @@
 
 # Changelog
 
-## Version 1.0.0 [Unreleased]
+## Version 1.0.0
 + Added Silent Summon Apparition
 + Added Quieter Sun Temple Water
 + Added Enderal Distinctive Jewelry
