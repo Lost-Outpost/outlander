@@ -25,7 +25,6 @@ This guide highlights major mods included in The Path in the following categorie
 - [User Interface and Camera](#user-interface-and-camera)
 - [Combat](#combat)
 - [Character Builds](#character-builds)
-- [Immersion](#immersion)
 - [Quality of Life](#quality-of-life)
 - [Gear](#gear)
 
