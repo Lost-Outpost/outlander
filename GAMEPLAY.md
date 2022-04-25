@@ -28,12 +28,6 @@ This guide highlights major mods included in The Path in the following categorie
 - [Immersion](#immersion)
 - [Quality of Life](#quality-of-life)
 - [Gear](#gear)
-- [Followers and Companions](#followers-and-companions)
-- [Homes](#homes)
-- [Quests](#quests)
-- [Quest Timing](#quest-timing)
-- [Enemies](#enemies)
-- [Locations](#locations)
 
 Icons in this guide:
 
