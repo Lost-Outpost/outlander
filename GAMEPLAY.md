@@ -40,8 +40,8 @@ This guide highlights major mods included in The Path in the following categorie
 Icons in this guide:
 
 - :new: indicates additions to the gameplay guide since the last major release
-- :ledger: indicates Septimus configuration notes
-- :video_game: indicates Septimus play testing observations
+- :ledger: indicates The Path configuration notes
+- :video_game: indicates The Path play testing observations
 
 ## Hotkeys
 
@@ -91,7 +91,7 @@ Icons in this guide:
 
 ## User Interface and Camera
 
-Septimus includes a minimalistic and modern UI, featuring:
+The Path includes a minimalistic and modern UI, featuring:
 
 - [Dynamic Things Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/49250) - Interact with previously static items like archery targets, crates, mammoth skulls, taproots, and more
 
@@ -111,7 +111,7 @@ Septimus includes a minimalistic and modern UI, featuring:
 
 ## Combat
 
-Septimus includes combat overhauls to increase the game's difficulty and encourage resource management:
+The Path includes combat overhauls to increase the game's difficulty and encourage resource management:
 
 - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - A lightweight combat enhancement which makes combat more engaging
 
@@ -119,7 +119,7 @@ Septimus includes combat overhauls to increase the game's difficulty and encoura
 
 ## Character Builds
 
-Consider the following mods when planning character builds in Septimus:
+Consider the following mods when planning character builds in The Path:
 
 ### Magic
 
@@ -127,7 +127,7 @@ TBD
 
 ## Quality of Life
 
-Septimus includes quality-of-life improvements to streamline your playing experience, featuring:
+The Path includes quality-of-life improvements to streamline your playing experience, featuring:
 
 - [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Too many spells cluttering your magic menu? Now you can forget them, directly from the menu!
 
@@ -139,7 +139,7 @@ Septimus includes quality-of-life improvements to streamline your playing experi
 
 ### New Gear
 
-In addition to the new gear and equipment available in the AE Creation Club, Septimus adds carefully balanced and lore-friendly items, including:
+The Path adds carefully balanced and lore-friendly items, including:
 
 - [Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/2019) - This mod adds the craftable 'Fur Cloak' and 'Linen Cape' to the game of Skyrim
 
