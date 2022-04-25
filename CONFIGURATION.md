@@ -16,7 +16,6 @@
 # Configuration
 
 - [Mod Organizer 2 Profiles](#mod-organizer-2-profiles)
-- [Alternate Start](#alternate-start)
 - [Optional Content](#optional-content)
   - [Widescreen](#widescreen)
   - [Character Presets](#character-presets)
