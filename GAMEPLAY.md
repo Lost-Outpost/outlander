@@ -22,7 +22,6 @@
 This guide highlights major mods included in The Path in the following categories:
 
 - [Hotkeys](#hotkeys)
-- [Gameplay](#remastered-gameplay)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Combat](#combat)
 - [Character Builds](#character-builds)
