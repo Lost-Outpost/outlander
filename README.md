@@ -41,7 +41,6 @@
 - [Gameplay Guide](#gameplay-guide)
 - [Configuration](#configuration)
 - [Issues](#issues)
-- [The Path Team](#the-path-team)
 - [Special Thanks](#special-thanks)
 
 # Introduction
