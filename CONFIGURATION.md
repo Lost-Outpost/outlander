@@ -15,7 +15,6 @@
 
 # Configuration
 
-- [Mod Organizer 2 Profiles](#mod-organizer-2-profiles)
 - [Optional Content](#optional-content)
   - [Widescreen](#widescreen)
   - [Character Presets](#character-presets)
