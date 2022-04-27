@@ -17,9 +17,9 @@
 
 ## Version 1.0.1
 + Updated Pristine Vanilla Movement
-+ Fixed Minor conflict resolution issues
 + Updated Fashions of the Fourth Era - Enderal Edition
 + Updated Cloaks & Capes - Enderal Edition
++ Fixed Minor conflict resolution issues
 
 ## Version 1.0.0
 + Added Silent Summon Apparition
