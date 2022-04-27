@@ -13,7 +13,7 @@
 
 ---
 
-**Modlist Download: [The Path.wabbajack](https://github.com/Guitarninja2/thepath/releases/download/1.0.0/The.Path-1.0.0.wabbajack)**
+**Modlist Download: [The Path.wabbajack](https://github.com/Guitarninja2/thepath/releases/download/1.0.1/The.Path-1.0.1.wabbajack)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
