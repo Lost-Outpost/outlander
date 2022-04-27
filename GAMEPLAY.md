@@ -42,10 +42,6 @@ Icons in this guide:
 
 - <kbd>E</kbd> - Use selected item in inventory, create item while crafting, or take item while browsing container
 
-  - <kbd>E</kbd> while selecting a broom from inventory, organizes clutter via [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
-
-  - <kbd>E</kbd> while selecting a shovel from inventory, buries dead bodies via [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984)
-
 - <kbd>F</kbd> - In inventory, favorite selected item
 
 - <kbd>H</kbd> - Access mount's saddlebags, make mounts follow or wait (even if you fast travel), call your mount, or give your current mount to a follower using [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225)
