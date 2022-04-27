@@ -44,8 +44,6 @@ Icons in this guide:
 
 - <kbd>F</kbd> - In inventory, favorite selected item
 
-- <kbd>H</kbd> - Access mount's saddlebags, make mounts follow or wait (even if you fast travel), call your mount, or give your current mount to a follower using [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225)
-
 - <kbd>L</kbd> - Toggles lantern, provided you've crafted and equipped a [Simple Wearable Lantern](https://www.nexusmods.com/skyrimspecialedition/mods/58464)
 
 - <kbd>R</kbd> - Drop selected item in inventory, or take all items from container
