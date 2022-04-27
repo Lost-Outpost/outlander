@@ -44,8 +44,6 @@ Icons in this guide:
 
   - <kbd>E</kbd> while selecting a broom from inventory, organizes clutter via [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
 
-  - <kbd>E</kbd> while selecting an instrument (drum, flute, lute) from inventory in a tavern, plays instrument via [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357)
-
   - <kbd>E</kbd> while selecting a shovel from inventory, buries dead bodies via [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984)
 
 - <kbd>F</kbd> - In inventory, favorite selected item
