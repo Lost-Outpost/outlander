@@ -104,9 +104,13 @@ The Path includes combat overhauls to increase the game's difficulty and encoura
 
 Consider the following mods when planning character builds in The Path:
 
+### Affinities
+
+- [KataPUMB New Affinities](https://www.nexusmods.com/enderalspecialedition/mods/190) - Become a dragon hunter, a rift mage, a spell sword... the choice is yours. This mod adds new classes for your playable character integrated within Enderal level system.
+
 ### Magic
 
-TBD
+- [KataPUMB Spell Package](https://www.nexusmods.com/enderalspecialedition/mods/159) - 43 new spell archetypes for a grand total of 193 spells which are integrated within Enderal leveled lists.
 
 ## Quality of Life
 
