@@ -15,6 +15,11 @@
 
 # Changelog
 
+## Version 1.0.1
++ Fixed Minor conflict resolution issues
++ Updated Fashions of the Fourth Era - Enderal Edition
++ Updated Cloaks & Capes - Enderal Edition
+
 ## Version 1.0.0
 + Added Silent Summon Apparition
 + Added Quieter Sun Temple Water
