@@ -15,25 +15,27 @@
 
 **Modlist Download: [The Path.wabbajack](https://github.com/Guitarninja2/thepath/releases/download/1.0.1/The.Path-1.0.1.wabbajack)**
 
-**Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
+**Modlist Support: [The Lost Outpost](https://discord.gg/WF66mMu)**
 
 # Installation
 
-- [Introduction](#introduction)
-  - [Minimum Specs](#minimum-specs)
-  - [Community](#community)
-  - [List Contents](#list-contents)
 - [Installation](#installation)
+- [Introduction](#introduction)
+    - [Minimum Specs](#minimum-specs)
+    - [Community](#community)
+    - [List Contents](#list-contents)
+- [Installation](#installation-1)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+    - [Installing Microsoft .NET 5.0](#installing-microsoft-net-50)
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Enderal](#clean-enderal)
-    - [Start Enderal](#start-enderal)
+  - [Start Enderal](#start-enderal)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
-      - [Problems with Wabbajack](#problems-with-wabbajack)
+    - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Stock Game](#stock-game)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
@@ -52,7 +54,7 @@ Users have reported running the list fine with as low as a Ryzen 1300x and a GTX
 
 ### Community
 
-Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) server and in the [Issues](https://github.com/Guitarninja2/thepath/issues) section of The Path GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/thepath/issues) section of The Path GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
 
 ### List Contents
 
@@ -176,7 +178,7 @@ If you find an issue, you can see if it is already on the list of [known issues]
 
 For issues that aren't yet [known](HELP.md), you can provide details in the [Github Issues](https://github.com/Guitarninja2/thepath/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the The Path Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg).
+Finally, free feel to hop on the The Path Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
 # Special Thanks
 I want to give a special shoutout to Apoapse and the Somnium team for their wonderful modlist. This would not be possible without them!!!!

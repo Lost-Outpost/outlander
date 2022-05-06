@@ -17,10 +17,10 @@
 
 For issues that aren't documented, you can provide details in the [Issues](https://github.com/Guitarninja2/thepath/issues) page. Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg).
+Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
 # Frequently asked questions
 
-## When should I ping Guitarninja on [The Animonculory Server](https://discord.gg/DffHKcszfg)?
+## When should I ping Guitarninja on [The Lost Outpost](https://discord.gg/WF66mMu)?
 
 Only if you find a quality among us meme. Any other situation is not acceptable.
