@@ -15,6 +15,18 @@
 
 # Changelog
 
+## Version 1.1.0
++ Added Obsidian Weathers and Seasons + True Storms Patch
++ Added Rudy Obsidian ENB
++ Added 4k Deer Expansion
++ Added Rudy Enderal ENB Patch
++ Added Beards of Power
++ Updated Recasted Daddy (With beards of power)
++ Updated Skyland
++ Fixed Marketplace House issues
++ Fixed Noble Quarters House Issues
++ Fixed Nemesis Animation Issues (Hopefully)
+
 ## Version 1.0.1
 + Updated Pristine Vanilla Movement
 + Updated Fashions of the Fourth Era - Enderal Edition
