@@ -15,7 +15,7 @@
 
 # Changelog
 
-## Version 1.1.0 [Unreleased]
+## Version 1.1.0 [BETA]
 + Added Obsidian Weathers and Seasons + True Storms Patch
 + Added Rudy Obsidian ENB
 + Added 4k Deer Expansion
