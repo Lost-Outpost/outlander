@@ -13,7 +13,7 @@
 
 ---
 
-**Modlist Download: [The Path.wabbajack](https://github.com/Lost-Outpost/thepath/releases/download/1.1.0/The.Path-1.1.0.wabbajack)**
+**Modlist Download: [The Path.wabbajack](https://github.com/Lost-Outpost/thepath/releases/download/1.1.1/The.Path-1.1.1.wabbajack)**
 
 **Modlist Support: [The Lost Outpost](https://discord.gg/WF66mMu)**
 
