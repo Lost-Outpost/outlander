@@ -15,6 +15,9 @@
 
 # Changelog
 
+## Version 1.1.1
++ Updated SKSE so the list can be installed
+
 ## Version 1.1.0
 + Added Obsidian Weathers and Seasons + True Storms Patch
 + Added Rudy Obsidian ENB
