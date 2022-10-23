@@ -15,6 +15,12 @@
 
 # Changelog
 
+## Version 1.2.0
++ Updated to latest Enderal SE
++ Updated Blade and Blunt to 2.0 with sneak addon
++ Fixed Skyland AIO not downloading
++ Fixed Nemesis behaviors
+
 ## Version 1.1.1
 + Updated SKSE so the list can be installed
 
