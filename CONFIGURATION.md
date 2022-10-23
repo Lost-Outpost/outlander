@@ -63,9 +63,3 @@ All MCM menus have been automated so you are good to ignore them unless you want
 
 - Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
 - Activate the performance grass and dyndolod mods under The Path - Performance Mode
-- Copy the files from one of the presets in The Path/Performance Options to the profile you're using and overwrite (The Path/profiles/The Path)
-
-![Perf Options](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options.png)
-![Perf Options 2](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options2.png)
-![Perf Options 3](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options3.png)
-- Double click on `SSE Display Tweaks - The Path Settings` under `Essentials` and set the resolution to match your monitor resolution and remove the # at the beginning of the line
