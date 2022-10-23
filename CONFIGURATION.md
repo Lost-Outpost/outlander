@@ -59,41 +59,6 @@ When enabling this content, just like with alternate start mods, ensure all mod 
 
 All MCM menus have been automated so you are good to ignore them unless you want to change anything.
 
-## ENB and Reshade Presets
-
-> :ledger: You should only ever enable exactly one preset (regardless of whether it is an ENB or Reshade). You should never enable both an ENB and Reshade preset at the same time.
-
-The Path includes an awesome tool called ENB Organizer for trying out different ENB and Reshade presets.
-
-To change ENB & Reshade presets, do the following:
-
-- Run ENB Organizer from the exe list in the top right of MO2
-- If the program warns about not being able to check for updates, simply click ok and ignore it
-
-![Exe List](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/exe_menu.png)
-
-- Go to presets on the left menu and enable the enb preset you wish to use. Be sure to only enable one preset at a time. The safest way is to disable them all and then simply activate one preset. Mixing presets (including mixing ENB and Reshade presets) will not work.
-
-![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/enb_enable.png)
-
-- Very low spec users may want to switch to Cathedral Reshade instead of ENB for extra performance
-
-To install a new ENB, do the following:
-
-- Manually download the ENB zip archive
-- Create a new temporary folder on your desktop to contain the new ENB
-- Open the ENB zip archive and navigate to the ELFX sub-folder
-- From the ENB zip archive ELFX sub-folder, copy the enbseries folder, enblocal.ini, and enbseries.ini into your temporary folder
-- Open The Path MO2, run the ENB Organizer
-- Ignore the ENB Organizer error message
-- In ENB Organizer, select Presets from the menu
-- In ENB Organizer, selct one of the The Path ENB (not Reshade!) presets, and use the View Files menu item
-- Copy the two .DLL files from the The Path ENB preset into your temporary folder
-- Your temporary folder should now have the enbseries folder, enblocal.ini, enbseries.ini, and two .DLLs
-- In ENB Organizer, select the add button, select import folder or archive, and import from your temporary folder
-
-Thanks to The Path community helper Curly for making [this video](https://www.youtube.com/watch?v=4MA5ZLcRYds) to show the process.
-
 ## Performance Guide
 
 - Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
