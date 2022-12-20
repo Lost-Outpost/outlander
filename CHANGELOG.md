@@ -15,6 +15,16 @@
 
 # Changelog
 
+## Version 1.3.0
+
+### Updated
++ Updated to latest Enderal SE
+
+### Removed
++ The Ultimate Dodge Mod
++ 4k Ore Veins (Moved to 2k)
++ EAWO (Caused issues with unique armors)
+
 ## Version 1.2.0
 + Updated to latest Enderal SE
 + Updated Blade and Blunt to 2.0 with sneak addon
