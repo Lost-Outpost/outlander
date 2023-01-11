@@ -15,6 +15,14 @@
 
 # Changelog
 
+## Version 1.4.2
+
+### Removed
++ Removed current stone wall meshes in favor of SMIM ones
+
+### Fixed
++ Fixed broken steel armor set and some other meshes from rudy
+
 ## Version 1.3.0
 
 ### Updated
