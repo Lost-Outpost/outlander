@@ -109,7 +109,7 @@ The download and installation process can take a little while (an hour or more) 
 
 1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "The Path"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `The Path` from the [Github Releases](https://github.com/Guitarninja2/thepath/releases) page
+3. Download the latest release of `The Path` from the [Nexus Page](https://www.nexusmods.com/enderalspecialedition/mods/389?tab=files)
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
