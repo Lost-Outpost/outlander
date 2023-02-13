@@ -52,8 +52,6 @@ Icons in this guide:
 
 - <kbd>X</kbd> - Toggles compass visibility
 
-- <kbd>CTRL</kbd> - Toggles sneaking (without weapons drawn) or performs dodge (with weapons drawn) using [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000)
-
 - <kbd>SHIFT</kbd> - Toggles sprinting
 
 - <kbd>Middle Mouse Button</kbd> - Locks on to enemies in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
@@ -67,10 +65,6 @@ Icons in this guide:
 - <kbd>F10</kbd> - Toggles ENB on/off
 
 - <kbd>F11</kbd> - Toggles ENB configuration, provided you are using ENB
-
-### Immersive Equipment Displays Hotkey
-
-- <kbd>SHIFT</kbd> + <kbd>PAGE DOWN</kbd> - Opens [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001?tab=description) configuration menu
 
 ## User Interface and Camera
 
@@ -91,14 +85,6 @@ The Path includes a minimalistic and modern UI, featuring:
   > :ledger: By default, use the <kbd>Middle Mouse Button</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
-
-## Combat
-
-The Path includes combat overhauls to increase the game's difficulty and encourage resource management:
-
-- [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - A lightweight combat enhancement which makes combat more engaging
-
-- [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000) - <kbd>CTRL</kbd> performs dodge (with weapons drawn)
 
 ## Character Builds
 
