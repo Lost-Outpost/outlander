@@ -15,6 +15,17 @@
 
 # Changelog
 
+## Version 1.5.0
+
+### Added
++ Enderal Distinctive Clothing
+
+### Updated
++ Skyland AIO
+
+### Removed
++ Several redundant texture mods
+
 ## Version 1.4.2
 
 ### Removed
