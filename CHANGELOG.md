@@ -15,6 +15,14 @@
 
 # Changelog
 
+## Version 1.5.1
+
+### Added
++ ERM - Rocks and Mountains
+
+### Fixed
++ Using correct version of squashes not pumpkins
+
 ## Version 1.5.0
 
 ### Added
