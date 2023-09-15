@@ -22,8 +22,6 @@
     - [List Contents](#list-contents)
 - [Installation](#installation-1)
   - [Pre-Installation](#pre-installation)
-    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-    - [Installing Microsoft .NET 5.0](#installing-microsoft-net-50)
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Enderal](#clean-enderal)
@@ -59,16 +57,6 @@ Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a
 ## Pre-Installation
 
 These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
-
-### Installing Microsoft Visual C++ Redistributable Package
-
-I doubt you need to do this since you likely already have this installed. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
-
-### Installing Microsoft .NET 5.0
-
-Please ensure you have .NET v5.0 installed. The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
-
-![Dot Net](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/microsoft-net-5-0-installation.png)
 
 ### Steam Library
 
