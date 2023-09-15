@@ -15,7 +15,7 @@
 
 # Help
 
-For issues that aren't documented, you can provide details in the [Issues](https://github.com/Guitarninja2/thepath/issues) page. Please provide as much info as you can (screenshots are great).
+For issues that aren't documented, you can provide details in the [Issues](https://github.com/Lost-Outpost/outlander/issues) page. Please provide as much info as you can (screenshots are great).
 
 Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 

@@ -15,13 +15,14 @@
 
 # Configuration
 
-- [Optional Content](#optional-content)
-  - [Widescreen](#widescreen)
-  - [Character Presets](#character-presets)
-- [Mod Configuration](#mod-configuration)
-  - [MCM Menus](#mcm-menus)
-- [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
-- [Performance Guide](#performance-guide)
+- [Configuration](#configuration)
+  - [Optional Content](#optional-content)
+    - [Widescreen](#widescreen)
+    - [Character Presets](#character-presets)
+    - [General Rules](#general-rules)
+  - [Mod Configuration](#mod-configuration)
+    - [MCM Menus](#mcm-menus)
+  - [Performance Guide](#performance-guide)
 
 ## Optional Content
 When enabling any optional files, make sure they are always loaded BEFORE watercolor.esp in your load order. See the alternate start section for an example of this.
@@ -38,7 +39,7 @@ Also, if you are using the optional NordicUI, enable the mod entitled "NORDIC UI
 
 ### Character Presets
 
-The Path includes mod that contains a few character presets, and you can also copy presets you download from the [The Path Character Presets Discord thread](https://discord.com/channels/773659452392865792/952965520083275796) to load when creating new characters. 
+Outlander includes mod that contains a few character presets, and you can also copy presets you download from the [Outlander Character Presets Discord thread](https://discord.com/channels/773659452392865792/952965520083275796) to load when creating new characters. 
 
 The presets mod is here:
 
@@ -47,11 +48,11 @@ The presets mod is here:
 You can select this mod, right-click it, and then select "Open in Explorer" to see the presets directory, which will be at this location:
 
 ```
-The Path\mods[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
+Outlander\mods[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
 ```
 
 ### General Rules
-When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realisticwatertwo.esp in your load order and if there is a The Path patch for them, load that after the mod's esp and above all other The Path patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
+When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realisticwatertwo.esp in your load order and if there is a Outlander patch for them, load that after the mod's esp and above all other Outlander patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
 
 ## Mod Configuration
 
@@ -61,5 +62,4 @@ All MCM menus have been automated so you are good to ignore them unless you want
 
 ## Performance Guide
 
-- Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
-- Activate the performance grass and dyndolod mods under The Path - Performance Mode
+- Try turning off ENB under ENB Options

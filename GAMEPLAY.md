@@ -15,11 +15,11 @@
 
 # Gameplay Guide
 
-> :ledger: **IMPORTANT NOTE: This gameplay guide reflects The Path 1.0.0 version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
+> :ledger: **IMPORTANT NOTE: This gameplay guide reflects Outlander 1.0.0 version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
 
 ## Overview
 
-This guide highlights major mods included in The Path in the following categories:
+This guide highlights major mods included in Outlander in the following categories:
 
 - [Hotkeys](#hotkeys)
 - [User Interface and Camera](#user-interface-and-camera)
@@ -31,8 +31,8 @@ This guide highlights major mods included in The Path in the following categorie
 Icons in this guide:
 
 - :new: indicates additions to the gameplay guide since the last major release
-- :ledger: indicates The Path configuration notes
-- :video_game: indicates The Path play testing observations
+- :ledger: indicates Outlander configuration notes
+- :video_game: indicates Outlander play testing observations
 
 ## Hotkeys
 
@@ -68,7 +68,7 @@ Icons in this guide:
 
 ## User Interface and Camera
 
-The Path includes a minimalistic and modern UI, featuring:
+Outlander includes a minimalistic and modern UI, featuring:
 
 - [Dynamic Things Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/49250) - Interact with previously static items like archery targets, crates, mammoth skulls, taproots, and more
 
@@ -88,7 +88,7 @@ The Path includes a minimalistic and modern UI, featuring:
 
 ## Character Builds
 
-Consider the following mods when planning character builds in The Path:
+Consider the following mods when planning character builds in Outlander:
 
 ### Affinities
 
@@ -100,7 +100,7 @@ Consider the following mods when planning character builds in The Path:
 
 ## Quality of Life
 
-The Path includes quality-of-life improvements to streamline your playing experience, featuring:
+Outlander includes quality-of-life improvements to streamline your playing experience, featuring:
 
 - [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Too many spells cluttering your magic menu? Now you can forget them, directly from the menu!
 
@@ -112,7 +112,7 @@ The Path includes quality-of-life improvements to streamline your playing experi
 
 ### New Gear
 
-The Path adds carefully balanced and lore-friendly items, including:
+Outlander adds carefully balanced and lore-friendly items, including:
 
 - [Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/2019) - This mod adds the craftable 'Fur Cloak' and 'Linen Cape' to the game of Skyrim
 

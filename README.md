@@ -32,29 +32,25 @@
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
-    - [Stock Game](#stock-game)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
-- [Final Checklist](#final-checklist)
-- [Gameplay Guide](#gameplay-guide)
 - [Configuration](#configuration)
 - [Issues](#issues)
-- [Special Thanks](#special-thanks)
 
 # Introduction
 
-The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping close to the game's original vision.
+Outlander is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping close to the game's original vision.
 
 ### Minimum Specs
 Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to use performance ini files (included) with systems this low but it should run fine and still look great!
 
 ### Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/thepath/issues) section of The Path GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/outlander/issues) section of Outlander GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
 
 ### List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/the-path) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/outlander-1) if you want to know exactly what you're getting.
 
 # Installation
 
@@ -107,9 +103,9 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "The Path"
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Outlander"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `The Path` from the [Nexus Page](https://www.nexusmods.com/enderalspecialedition/mods/389?tab=files)
+3. Download the latest release of `Outlander` from the [Nexus Page](https://www.nexusmods.com/enderalspecialedition/mods/389?tab=files)
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
@@ -134,14 +130,6 @@ This can happen when I update the modlist. Check if a new update is available an
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
-### Stock Game
-
-Unlike regular Enderal installation or some other Wabbajack Lists, The Path comes with the **Stock Game Feature**.
-
-Basically, the **Stock Game Feature** is a copy of a Enderal installation located within your installation folder, cleaned and with everything required in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after you install The Path using Wabbajack, you need not to move anything to your regular Enderal installation folder.
-
-There are more steps though, so please keep following the next steps to setup the game optimally.
-
 ### Pagefile in prevention of memory crashes
 
 Bigger Enderal modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
@@ -156,14 +144,6 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-# Final Checklist
-Check the following items before starting the game (they are easy to miss)
-- If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/thepath/blob/main/CONFIGURATION.md#widescreen)
-- Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/thepath/blob/main/CONFIGURATION.md#enb-and-reshade-presets) page
-
-# Gameplay Guide
-My team and I have put together a helpful [gameplay guide](GAMEPLAY.md) to get you informed on any gameplay changes and additional content you should be aware of. You can find that [here](GAMEPLAY.md).
-
 # Configuration
 
 If you wish to further customize by changing the ENB preset, changing dodge keys, or swapping optional mods you can visit the [Configuration](CONFIGURATION.md) page for more info.
@@ -172,9 +152,7 @@ If you wish to further customize by changing the ENB preset, changing dodge keys
 
 If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Github Issues](https://github.com/Guitarninja2/thepath/issues). Please provide as much info as you can (screenshots are great).
+For issues that aren't yet [known](HELP.md), you can provide details in the [Github Issues](https://github.com/Lost-Outpost/outlander/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the The Path Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+Finally, free feel to hop on the Outlander Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
-# Special Thanks
-I want to give a special shoutout to Apoapse and the Somnium team for their wonderful modlist. This would not be possible without them!!!!
